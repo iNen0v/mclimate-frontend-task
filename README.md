@@ -253,7 +253,3 @@ src/
 - Модерни браузъри (Chrome, Firefox, Safari, Edge)
 - Използвам ES6+ features
 - Няма polyfills (може да се добавят ако е нужна поддръжка за IE11)
-
----
-
-Това е submission за MClimate frontend позиция.
